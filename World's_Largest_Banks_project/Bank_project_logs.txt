@@ -1,0 +1,9 @@
+2024-Mar-31-20:04:40:Loading preliminaries
+2024-Mar-31-20:04:40:Beginning extraction phase
+2024-Mar-31-20:04:53:Extraction phase Completed.....Now transformation comensing
+2024-Mar-31-20:04:56:Transformation completed
+2024-Mar-31-20:04:56:Loading data to CSV
+2024-Mar-31-20:04:56:Loading data to Database
+2024-Mar-31-20:04:56:Loading File to Database Successful
+2024-Mar-31-20:04:56:Querrying Database
+2024-Mar-31-20:04:56:DB querry successfully executed
